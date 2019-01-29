@@ -10,13 +10,13 @@
     <v-toolbar-items class="hidden-sm-and-down">
       <v-btn
         flat
-        href=""
+        href="https://github.com/Jefwillems/TerrariaRecipeBrowser/issues"
       >
         Bug report
       </v-btn>
       <v-btn
         flat
-        href=""
+        href="https://docs.google.com/spreadsheets/d/1nNsuMEK9a0HSucLt70NQu8F0fQPuZS7TCuN1WJYTTFE/edit?usp=sharing"
       >
         Spreadsheet
       </v-btn>
