@@ -8,7 +8,7 @@ const getRequiredItems = (entries, item) => {
   const added = [];
   const populateEntry = (requiredItem) => {
     let ret = find(entries, entry => entry.name === requiredItem.type);
-    if (ret && ret.requiredItems && !find(added, a => a.name)) {
+    if (ret && ret.requiredItems && !find(added, a => a.name === ret.name)) {
       // Recipe exists == has required item(s)
       ret.requiredItems = map(
         ret.requiredItems,
