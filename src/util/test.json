@@ -1,0 +1,207 @@
+{
+  "name": "Ankh Shield",
+  "needHoney": "No",
+  "needWater": "No",
+  "anyIronbar": "No",
+  "anyWood": "No",
+  "requiredItems": [
+    {
+      "name": "Obsidian Shield",
+      "needHoney": "No",
+      "needWater": "No",
+      "anyIronbar": "No",
+      "anyWood": "No",
+      "requiredItems": {
+        "name": "Obsidian Shield",
+        "needHoney": "No",
+        "needWater": "No",
+        "anyIronbar": "No",
+        "anyWood": "No",
+        "requiredItems": [
+          {
+            "name": "Cobalt Shield",
+            "id": "68c99732-ef13-487e-872a-87952009ce5a"
+          },
+          {
+            "name": "Obsidian Skull",
+            "needHoney": "No",
+            "needWater": "No",
+            "anyIronbar": "No",
+            "anyWood": "No",
+            "requiredItems": {
+              "name": "Obsidian Skull",
+              "needHoney": "No",
+              "needWater": "No",
+              "anyIronbar": "No",
+              "anyWood": "No",
+              "requiredItems": [
+                {
+                  "name": "Obsidian",
+                  "id": "94b573a5-9479-47fc-a77a-450fb5ecc68e"
+                }
+              ],
+              "requiredTiles": "Furnace",
+              "id": 1071,
+              "amount": 1
+            },
+            "requiredTiles": "Furnace",
+            "id": 1071,
+            "amount": 1
+          }
+        ],
+        "requiredTiles": "Tinkerer's Workshop",
+        "id": 1068,
+        "amount": 1
+      },
+      "requiredTiles": "Tinkerer's Workshop",
+      "id": 1068,
+      "amount": 1
+    },
+    {
+      "name": "Ankh Charm",
+      "needHoney": "No",
+      "needWater": "No",
+      "anyIronbar": "No",
+      "anyWood": "No",
+      "requiredItems": {
+        "name": "Ankh Charm",
+        "needHoney": "No",
+        "needWater": "No",
+        "anyIronbar": "No",
+        "anyWood": "No",
+        "requiredItems": [
+          {
+            "name": "Armor Bracing",
+            "needHoney": "No",
+            "needWater": "No",
+            "anyIronbar": "No",
+            "anyWood": "No",
+            "requiredItems": {
+              "name": "Armor Bracing",
+              "needHoney": "No",
+              "needWater": "No",
+              "anyIronbar": "No",
+              "anyWood": "No",
+              "requiredItems": [
+                {
+                  "name": "Armor Polish",
+                  "id": "58e04213-f277-4b6e-914e-f5b7fb184f35"
+                },
+                {
+                  "name": "Vitamins",
+                  "id": "f201c348-7861-4afc-a828-4998d4fab8e1"
+                }
+              ],
+              "requiredTiles": "Tinkerer's Workshop",
+              "id": 60,
+              "amount": 1
+            },
+            "requiredTiles": "Tinkerer's Workshop",
+            "id": 60,
+            "amount": 1
+          },
+          {
+            "name": "Medicated Bandage",
+            "needHoney": "No",
+            "needWater": "No",
+            "anyIronbar": "No",
+            "anyWood": "No",
+            "requiredItems": {
+              "name": "Medicated Bandage",
+              "needHoney": "No",
+              "needWater": "No",
+              "anyIronbar": "No",
+              "anyWood": "No",
+              "requiredItems": [
+                {
+                  "name": "Bezoar",
+                  "id": "427bbfc2-779c-4bd4-b34d-38733d7ad71b"
+                },
+                {
+                  "name": "Adhesive Bandage",
+                  "id": "7e45741c-73ea-42d7-a61f-6a4393eece0d"
+                }
+              ],
+              "requiredTiles": "Tinkerer's Workshop",
+              "id": 941,
+              "amount": 1
+            },
+            "requiredTiles": "Tinkerer's Workshop",
+            "id": 941,
+            "amount": 1
+          },
+          {
+            "name": "The Plan",
+            "needHoney": "No",
+            "needWater": "No",
+            "anyIronbar": "No",
+            "anyWood": "No",
+            "requiredItems": {
+              "name": "The Plan",
+              "needHoney": "No",
+              "needWater": "No",
+              "anyIronbar": "No",
+              "anyWood": "No",
+              "requiredItems": [
+                {
+                  "name": "Fast Clock",
+                  "id": "3e75523e-a93e-4495-8496-55be64ea4b80"
+                },
+                {
+                  "name": "Trifold Map",
+                  "id": "cf0dd0f9-4f32-45bc-8d79-a2fb0a4a07a0"
+                }
+              ],
+              "requiredTiles": "Tinkerer's Workshop",
+              "id": 1628,
+              "amount": 1
+            },
+            "requiredTiles": "Tinkerer's Workshop",
+            "id": 1628,
+            "amount": 1
+          },
+          {
+            "name": "Countercurse Mantra",
+            "needHoney": "No",
+            "needWater": "No",
+            "anyIronbar": "No",
+            "anyWood": "No",
+            "requiredItems": {
+              "name": "Countercurse Mantra",
+              "needHoney": "No",
+              "needWater": "No",
+              "anyIronbar": "No",
+              "anyWood": "No",
+              "requiredItems": [
+                {
+                  "name": "Megaphone",
+                  "id": "73838626-f65c-4a83-acee-82bc1bdcf994"
+                },
+                {
+                  "name": "Nazar",
+                  "id": "6e8ea176-46b6-4e05-8e15-93265bd9a32b"
+                }
+              ],
+              "requiredTiles": "Tinkerer's Workshop",
+              "id": 331,
+              "amount": 1
+            },
+            "requiredTiles": "Tinkerer's Workshop",
+            "id": 331,
+            "amount": 1
+          },
+          { "name": "Blindfold", "id": "f740f235-7bee-4f68-bf63-48d3ea128831" }
+        ],
+        "requiredTiles": "Tinkerer's Workshop",
+        "id": 53,
+        "amount": 1
+      },
+      "requiredTiles": "Tinkerer's Workshop",
+      "id": 53,
+      "amount": 1
+    }
+  ],
+  "requiredTiles": "Tinkerer's Workshop",
+  "id": 54,
+  "amount": 1
+}
