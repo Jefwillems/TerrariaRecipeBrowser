@@ -14,7 +14,6 @@ const getRequiredItems = (entries, item) => {
         ret.requiredItems,
         nextLevelItem => populateEntry(nextLevelItem) || nextLevelItem,
       );
-      added.push(ret);
     } else {
       // No recipe exists for ret
       ret = {
@@ -23,6 +22,7 @@ const getRequiredItems = (entries, item) => {
         id: uuid(),
       };
     }
+    added.push(ret);
     return ret;
   };
   const newProps = {};
